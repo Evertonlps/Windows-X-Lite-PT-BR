@@ -1,0 +1,48 @@
+
+       ░▒▓█► WINDOWS X-LITE XBOX APP SIGN IN FIX ◄█▓▒░
+
+
+     ℹ INFORMATION ℹ
+------------------------------------------------------
+• If you try to click the 'Sign In' Button in the Xbox App, and nothing happens,
+Here's the Fix:
+
+
+     ℹ INTRUCTIONS ℹ
+------------------------------------------------------
+Step 1. - Run (Import) the registry file 'UAC ON (Fix Xbox Sign In).reg'
+Step 2. - Restart your PC
+Step 3. - Xbox Sign In Will now function normally
+
+If you want to disable UAC after signing into Xbox,
+Here's how to do it:
+
+Step 1 - Run (Import) the registry file 'UAC OFF.reg'
+Step 2 - Restart your PC
+Step 3 - UAC will now be disabled
+
+
+     ℹ ADDTIONAL INFORMATION ℹ
+------------------------------------------------------
+• The Xbox App Sign In function is dependent on UAC being enabled.
+
+• If you don't want to enable UAC, but still want to sign in to Xbox,
+you can sign into your Microsoft account through Settings - Accounts - Your Info
+and it will sign you into the Xbox app as well.
+
+
+  ☑ COME VISIT US! ☑
+------------------------------------------------------
+➡️ https://windowsxlite.com
+➡️ https://www.youtube.com/@WindowsX-Lite
+➡️ https://ko-fi.com/windowsxlite
+------------------------------------------------------
+❤️ You can Help Support This Project by Donating!
+➡️ https://ko-fi.com/windowsxlite
+------------------------------------------------------
+❤️ You Can Help Support This Project by Disabling Ad Blockers
+while visiting our website and our YouTube Channel!
+------------------------------------------------------
+➡️ Thank you for your support, and for being a part of our community!
+➡️ Yours Truly - FBConan & The Windows X-Lite Team
+------------------------------------------------------
